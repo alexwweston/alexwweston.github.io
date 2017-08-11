@@ -1,0 +1,118 @@
+{ 
+    "Languages": [
+        {
+            "tech": "javascript",
+            "level": 9.8,
+            "note": "I've done many projects with javascript, both as single page apps and as the dressing on top of server-heavy apps"
+        },
+        {
+            "tech": "Python",
+            "level": 9.5,
+            "note": ""
+        },
+        {
+            "tech": "SQL/MySQL",
+            "level": 8,
+            "note": ""
+        },
+        {
+            "tech": "CSS",
+            "level": 7.5,
+            "note": ""
+        },
+        {
+            "tech": "Neo4J",
+            "level": 7.0,
+            "note": ""
+        },
+        {
+            "tech": "Bash",
+            "level": 6.5,
+            "note": ""
+        },
+        {
+            "tech": "Typescript",
+            "level": 5.5,
+            "note": ""
+        },
+        {
+            "tech": "PHP",
+            "level": 5,
+            "note": ""
+        },
+        {
+            "tech": "LabVIEW",
+            "level": 4,
+            "note": ""
+        },
+        {
+            "tech": "MATLAB",
+            "level": 3,
+            "note": ""
+        },
+        {
+            "tech": "Java",
+            "level": 2.8,
+            "note": ""
+        },
+        {
+            "tech": "C/C++",
+            "level": 2,
+            "note": ""
+        }
+    ],
+    "Frameworks": [
+        {
+            "tech": "React + Redux", 
+            "level": 9.9,
+            "note": "I have done many projects using react--Including this site!"
+        },
+        {
+            "tech": "Django", 
+            "level": 8,
+            "note": "I have worked on several large Django projects"
+        },
+        {
+            "tech": "AngularJS",
+            "level": 4,
+            "note": ""
+        },
+        {
+            "tech": "D3",
+            "level": 3,
+            "note": "I understand the concepts behind D3, but I have only made a few visualations using  D3 (including this chart!)"
+        },
+        {
+            "tech": "WebGL",
+            "level": 2.7,
+            "note": ""
+        }
+    ],
+    "Miscellaneous":[
+        {
+            "tech": "Object Oriented Programming",
+            "level": 9.5,
+            "note": ""
+        },
+        {
+            "tech": "Data Wrangling",
+            "level": 8.5,
+            "note": ""
+        },
+        {
+            "tech": "Git",
+            "level": 8,
+            "note": ""
+        },
+        {
+            "tech": "Data Pipelines",
+            "level": 6.5,
+            "note": ""
+        },
+        {
+            "tech": "TDD",
+            "level": 3.5,
+            "note": ""
+        }
+    ]
+}

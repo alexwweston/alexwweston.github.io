@@ -1,0 +1,39 @@
+{
+    "projects":[
+        {
+            "title": "DICED",
+            "img": "assets/images/portfolio/DICED.png",
+            "description":"See <a href='http://emdata.janelia.org/#/' target='_blank'>emdata.janelia.org</a>. I redesigned much of an existing React+AltJs app for the Janelia FlyEM team, adding a second build target to this open source app. This single page app queries a backend api called DICED to dynamically load EM image data. The code is available <a href='https://github.com/janelia-flyem/dvid-console'>here</a>."
+        },
+        {
+            "title": "FlyEM Neuroglancer",
+            "img": "assets/images/portfolio/neuroglancer.png",
+            "description":"I added several customizations to a fork of the popular open source neuroimaging viewer Neuroglancer for the Janelia FlyEM team. For this project, I worked with vanilla WebGL and TypeScript. You can view the forked repository <a href='https://github.com/janelia-flyem/neuroglancer' target='_blank'>here</a>."
+        },
+        {
+            "title": "Django Projects",
+            "img": "assets/images/portfolio/django.png",
+            "description":"I have worked on three closed-source Django applications. They are hosted on an internal network and closed-source, unfortunately. One of these project handled ordering stocks from an internal store. The other two were geared towards employee time tracking and billing. All were built with MySQL, Django, and jquery."
+        },
+        {
+            "title": "Portfolio Site",
+            "img": "assets/images/portfolio/PortfolioSite.png",
+            "description":"I built the site you are currently hanging out on! It's completely front-end, utilizing React, D3 and bootstrap. Take a look at the <a href='https://github.com/alexwweston/reactportfoliosite' target='_blank'>source code</a>."
+        },
+        {
+            "title": "ADHD/ASD Study Database",
+            "img": "assets/images/portfolio/neo4j.png",
+            "description": "I led a small team in the <a href='http://www.ohsu.edu/xd/education/schools/school-of-medicine/departments/basic-science-departments/behn/people/labs/fair-neuroimaging-lab/' target='_blank'>Fair Neuroimaging lab</a>, building a Neo4j database for monitoring and visualizing study data. We built an object-oriented Python framework for importing data from many different sources into this database."
+        },
+        {
+            "title": "HCP Exacloud",
+            "img": "assets/images/portfolio/HCP.png",
+            "description": "I built a meta-pipeline for the <a href='http://www.ohsu.edu/xd/education/schools/school-of-medicine/departments/basic-science-departments/behn/people/labs/fair-neuroimaging-lab/' target='_blank'>Fair Neuroimaging lab</a> launch and monitor the stages of the Human Connectome Pipeline on the Exacloud cluster, which previously needed a fair amount of human monitoring. My framework included built-in validation and notifications."
+        },
+        {
+            "title": "Rubicon Atlas",
+            "img": "assets/images/portfolio/Atlas.jpg",
+            "description": "I worked for an educational software company building a large application called Atlas, which used PHP, javascript, and MSSQL. Later, I worked on a smaller app for this company using AngularJS. This work was closed-source."
+        }
+    ]
+}
