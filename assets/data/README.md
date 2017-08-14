@@ -33,5 +33,17 @@ note: level should contain a float between 1 and 10
 
 ###package.json
 ```
-
+{
+    "projects":[
+        {
+            "title": "Project 1",
+            "img": "assets/images/portfolio/project1.png",
+            "description":"Some cool description here. Can include html tags."
+        },
+        {
+            "title":
+        ...
+    ]
+}
 ```
+add the portfolio images (which need to have a 3wX2h aspect ratio) to assets/images/portfolio
