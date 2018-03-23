@@ -73,8 +73,8 @@
             "note": "I have worked on several large Django projects"
         },
         {
-            "tech": "AngularJS",
-            "level": 4,
+            "tech": "Pandas",
+            "level": 7,
             "note": ""
         },
         {
@@ -95,23 +95,18 @@
             "note": ""
         },
         {
-            "tech": "Data Wrangling",
-            "level": 8.5,
-            "note": ""
-        },
-        {
             "tech": "Git",
             "level": 8,
             "note": ""
         },
         {
-            "tech": "Data Pipelines",
-            "level": 6.5,
+            "tech": "Basic Data Analysis",
+            "level": 7,
             "note": ""
         },
         {
-            "tech": "TDD",
-            "level": 3.5,
+            "tech": "Data Pipelines",
+            "level": 6.5,
             "note": ""
         }
     ]
