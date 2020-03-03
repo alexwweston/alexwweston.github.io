@@ -1,18 +1,28 @@
 { 
     "Languages": [
         {
-            "tech": "javascript",
+            "tech": "Javascript/ES6+",
             "level": 9.8,
             "note": "I've done many projects with javascript, both as single page apps and as the dressing on top of server-heavy apps"
         },
         {
             "tech": "Python",
-            "level": 9.5,
+            "level": 7.5,
             "note": ""
         },
         {
             "tech": "SQL/MySQL",
-            "level": 8,
+            "level": 7,
+            "note": ""
+        },
+        {
+            "tech": "Node.js",
+            "level": 5.5,
+            "note": ""
+        },
+        {
+            "tech": "GraphQL",
+            "level": 5,
             "note": ""
         },
         {
@@ -21,33 +31,23 @@
             "note": ""
         },
         {
-            "tech": "Neo4J",
-            "level": 7.0,
-            "note": ""
-        },
-        {
-            "tech": "Bash",
+            "tech": "Less",
             "level": 6.5,
             "note": ""
         },
         {
-            "tech": "Typescript",
-            "level": 5.5,
+            "tech": "Neo4J",
+            "level": 4.0,
             "note": ""
         },
         {
-            "tech": "PHP",
-            "level": 5,
-            "note": ""
-        },
-        {
-            "tech": "LabVIEW",
-            "level": 4,
-            "note": ""
-        },
-        {
-            "tech": "MATLAB",
+            "tech": "Bash",
             "level": 3,
+            "note": ""
+        },
+        {
+            "tech": "TypeScript",
+            "level": 8.5,
             "note": ""
         },
         {
@@ -61,52 +61,49 @@
             "note": ""
         }
     ],
-    "Frameworks": [
+    "Frameworks/Libraries": [
         {
-            "tech": "React + Redux", 
+            "tech": "React", 
             "level": 9.9,
-            "note": "I have done many projects using react--Including this site!"
+            "note": ""
+        },
+        {
+            "tech": "Apollo GraphQL",
+            "level": 6.3
         },
         {
             "tech": "Django", 
-            "level": 8,
-            "note": "I have worked on several large Django projects"
+            "level": 5,
+            "note": ""
         },
         {
             "tech": "Pandas",
-            "level": 7,
+            "level": 4,
             "note": ""
         },
         {
             "tech": "D3",
-            "level": 3,
-            "note": "I understand the concepts behind D3, but I have only made a few visualations using  D3 (including this chart!)"
+            "level": 6,
+            "note": ""
         },
         {
             "tech": "WebGL",
-            "level": 2.7,
-            "note": ""
-        }
-    ],
-    "Miscellaneous":[
-        {
-            "tech": "Object Oriented Programming",
-            "level": 9.5,
+            "level": 2.0,
             "note": ""
         },
         {
-            "tech": "Git",
-            "level": 8,
+            "tech": "Jest",
+            "level": 8.0,
             "note": ""
         },
         {
-            "tech": "Basic Data Analysis",
-            "level": 7,
+            "tech": "Cypress",
+            "level": 7.1,
             "note": ""
         },
         {
-            "tech": "Data Pipelines",
-            "level": 6.5,
+            "tech": "Semantic UI",
+            "level": 7.8,
             "note": ""
         }
     ]

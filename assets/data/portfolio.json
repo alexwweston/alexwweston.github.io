@@ -1,24 +1,34 @@
 {
-    "projects":[
+    "projects": [
+        {
+            "title": "Oncology Care Hub",
+            "img": "assets/images/portfolio/OCH.png",
+            "description": "I was a foundational engineer for a greenfield chemotherapy prep workflow tool. Leading the frontend development, I chose and implemented frontend stack: React, Apollo client, and semantic UI with a custom theme. I then iterated with product on a clean display of data. I coded across the stack, leveraging Node.Js and Apollo server."
+        },
+        {
+            "title": "InSight Care",
+            "img": "assets/images/portfolio/InSight.png",
+            "description": "I developed interactive data visualizations using D3 and React as part of a pilot program which reduced patient ER visits. Check out the <a href='https://hbr.org/2019/11/using-remote-monitoring-to-reduce-hospital-visits-for-cancer-patients' target='_blank'>HBR article</a> about the program."
+        },
+        {
+            "title": "Darwin Digital Platform",
+            "img": "assets/images/portfolio/DDP.png",
+            "description": "I was a frontend engineer on a small agile team that worked to improve the chart review experience for clinicians and researchers. "
+        },
         {
             "title": "DICED",
             "img": "assets/images/portfolio/DICED.png",
-            "description":"See <a href='http://emdata.janelia.org/#/' target='_blank'>emdata.janelia.org</a>. I redesigned much of an existing React+AltJs app for the Janelia FlyEM team, adding a second build target to this open source app. This single page app queries a backend api called DICED to dynamically load EM image data. The code is available <a href='https://github.com/janelia-flyem/dvid-console'>here</a>."
+            "description": "See <a href='http://emdata.janelia.org/#/' target='_blank'>emdata.janelia.org</a>. I redesigned much of an existing React app for the Janelia FlyEM team. This single page app queries a backend api called DICED to dynamically load EM image data. The code is available <a href='https://github.com/janelia-flyem/dvid-console'>here</a>."
         },
         {
             "title": "FlyEM Neuroglancer",
             "img": "assets/images/portfolio/neuroglancer.png",
-            "description":"I added several customizations to a fork of the popular open source neuroimaging viewer Neuroglancer for the Janelia FlyEM team. For this project, I worked with vanilla WebGL and TypeScript. You can view the forked repository <a href='https://github.com/janelia-flyem/neuroglancer' target='_blank'>here</a>."
+            "description": "I added several customizations to a fork of the popular open source neuroimaging viewer Neuroglancer for the Janelia FlyEM team. For this project, I worked with vanilla WebGL and TypeScript."
         },
         {
             "title": "Django Projects",
             "img": "assets/images/portfolio/django.png",
-            "description":"I have worked on three closed-source Django applications. They are hosted on an internal network and closed-source, unfortunately. One of these project handled ordering stocks from an internal store. The other two were geared towards employee time tracking and billing. All were built with MySQL, Django, and jquery."
-        },
-        {
-            "title": "Portfolio Site",
-            "img": "assets/images/portfolio/PortfolioSite.png",
-            "description":"I built the site you are currently hanging out on! It's completely front-end, utilizing React, D3 and bootstrap. Take a look at the <a href='https://github.com/alexwweston/reactportfoliosite' target='_blank'>source code</a>."
+            "description": "I have worked on three large Django applications and a collection of small admin apps. They are hosted on an internal network and closed-source. One of these project handled ordering stocks from an internal store. The other two were geared towards employee time tracking and billing. All were built with MySQL, Django, and jquery."
         },
         {
             "title": "ADHD/ASD Study Database",
@@ -33,7 +43,7 @@
         {
             "title": "Rubicon Atlas",
             "img": "assets/images/portfolio/Atlas.jpg",
-            "description": "I worked for an educational software company building a large application called Atlas, which used PHP, javascript, and MSSQL. Later, I worked on a smaller app for this company using AngularJS. This work was closed-source."
+            "description": "I worked for an edtech company developing a large application called Atlas, which was built on PHP, javascript, and MSSQL. Later, I worked on a smaller app for this company using AngularJS. This work was closed-source."
         }
     ]
 }
